@@ -203,7 +203,7 @@ RETURN
 ## Visualization Rationale
 
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/API-Weather-Report/blob/main/API%20Weather%20Report%20Dashboard%20Screenshot.png)
 
 
 ### Temperature Trend Visualization
